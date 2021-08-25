@@ -6,8 +6,8 @@ This is Python library implemented some Machine Learning algorithms using `numpy
  - Linear Regression 
  - Logistic Regression 
  - Softmax Regression 
- - SVM 
- - PCA
- - LDA 
+ - Support Vector Machine (SVM) 
+ - Principal Component Analysis (PCA)
+ - Linear Discriminant Analysis (LDA) 
  - ID3 Decision Tree
- - HMM 
+ - Hidden Markov Model (HMM) 
