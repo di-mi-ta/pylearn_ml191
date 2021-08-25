@@ -1,7 +1,8 @@
-# pylearn_ml191
+# An implementation of some classical machine learning algorithm
 
 This is Python library implemented some Machine Learning algorithms using **numpy** in Machine Learning Course at HCMUT. 
 
+List of algorithms:
  - Linear Regression 
  - Logistic Regression 
  - Softmax Regression 
